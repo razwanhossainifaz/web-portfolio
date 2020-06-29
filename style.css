@@ -24,4 +24,12 @@ h1{
 section{
     height: 500px;
 }
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, lightSalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 800;
+}
     
