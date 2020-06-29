@@ -32,4 +32,10 @@ section{
     color: white;
     font-weight: 800;
 }
+.middle-part{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
     
