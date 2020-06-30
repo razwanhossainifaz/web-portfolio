@@ -39,4 +39,8 @@ section{
     margin-left: 5%;
     padding-left: 2%;
 }
-    
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}  
